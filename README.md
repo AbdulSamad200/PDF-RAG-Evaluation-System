@@ -42,20 +42,20 @@ Evaluate generated answers using modern RAG evaluation metrics:
 
 The system automatically flags potentially hallucinated responses based on Faithfulness scores.
 
----
+
 
 ## 🔍 Context Inspection
 
 View retrieved chunks and source documents used to generate the answer.
 
----
+
 
 ## 🏗️ System Architecture
 
 ![RAG Architecture](https://github.com/AbdulSamad200/PDF-RAG-Evaluation-System/blob/main/Architecture.png?raw=true)
 
 
----
+
 
 # 🛠️ Tech Stack
 
@@ -68,7 +68,6 @@ View retrieved chunks and source documents used to generate the answer.
 * Pandas
 * PyPDF
 
----
 
 # 📂 Project Structure
 
@@ -80,7 +79,7 @@ View retrieved chunks and source documents used to generate the answer.
 ├── README.md
 ```
 
----
+
 
 # ⚙️ Installation
 
@@ -120,7 +119,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
----
+
 
 # 🔑 Environment Variables
 
@@ -173,13 +172,7 @@ Important aspects include:
 * Async RAGAS Evaluation
 * Advanced Observability
 
----
 
-# 📸 Demo
-
-(Add screenshots/GIFs here)
-
----
 
 # 🤝 Contributing
 
@@ -188,10 +181,5 @@ Contributions are welcome.
 Feel free to fork the project and submit pull requests.
 
 
----
 
-# 👨‍💻 Author
 
-Abdul Samad Khaja
-
-AI Engineer | Generative AI | RAG Systems | Agentic AI
