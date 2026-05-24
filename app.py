@@ -74,10 +74,10 @@ st.set_page_config(
 # CONSTANTS
 # =========================================================
 
-EMBEDDING_MODEL = "models/text-embedding-004"
+EMBEDDING_MODEL = "gemini-embedding-001"
 
-CHAT_MODEL = "gemini-2.5-flash"
-EVAL_MODEL = "gemini-2.5-flash"
+CHAT_MODEL = "gemini-2.5-flash-lite"
+EVAL_MODEL = "gemini-2.5-flash-lite"
 
 FAISS_ROOT = "faiss_indexes"
 
