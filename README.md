@@ -86,7 +86,7 @@ View retrieved chunks and source documents used to generate the answer.
 ## 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Advanced-RAG-Pipeline-with-RAGAS.git
+git clone https://github.com/AbdulSamad200/Advanced-RAG-Pipeline-with-RAGAS.git
 
 cd Advanced-RAG-Pipeline-with-RAGAS
 ```
